@@ -5,6 +5,7 @@
 ![MCU](https://img.shields.io/badge/Microcontrolador-PIC18F4550-blue)
 ![Language](https://img.shields.io/badge/Linguagem-C-orange)
 ![IDE](https://img.shields.io/badge/IDE-MPLAB__X-green)
+![Status do Projeto](https://img.shields.io/badge/Status-Concluído-green)
 
 ## 📄 Descrição
 
